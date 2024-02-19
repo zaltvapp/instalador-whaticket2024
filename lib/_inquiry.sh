@@ -201,7 +201,7 @@ software_dominio() {
 inquiry_options() {
   
   print_banner
-  printf "${WHITE} 💻 Bem vindo(a) ao Gerenciador PLW DESIGN, Selecione abaixo a proxima ação!${GRAY_LIGHT}"
+  printf "${WHITE} 💻 Bem vindo(a) ao Gerenciador Whaticket SaaS White Label da Cloud Win, novas integrações com TypeBot, N8N, ChatGPT e muito mais! Contrate seu Cloud VPS na cloudwin.com.br e tenha suporte para instalação grátis e novos updates! Selecione abaixo a proxima ação!${GRAY_LIGHT}"
   printf "\n\n"
   printf "   [0] Instalar whaticket\n"
   printf "   [1] Atualizar whaticket\n"
