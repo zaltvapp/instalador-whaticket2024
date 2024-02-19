@@ -8,4 +8,6 @@ ACESSANDO DIRETORIO DO INSTALADOR & INICIANDO INSTALAÇÕES ADICIONAIS (USAR EST
 ```bash
 cd ./instalador-whaticket2024 && sudo ./install_instancia
 ```
+Chame no WhatsApp para obter o conteúdo Whaticket 2024 com integrações Tybebot, n8n, Webhook e ChatGPT.
 
+https://api.whatsapp.com/send?phone=5547999826437&text=Ol%C3%A1,%20estou%20no%20site%20e%20gostaria%20de%20saber%20mais.
